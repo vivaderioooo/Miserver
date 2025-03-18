@@ -50,3 +50,20 @@
 [21:24:12] [Server thread/INFO]: Alexdi227 has made the advancement [Monster Hunter]
 [21:29:13] [Server thread/INFO]: vivaderio has made the advancement [A Seedy Place]
 [21:31:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=155, y=56, z=42} gu{x=155, y=57, z=42}
+[21:52:27] [Server thread/INFO]: Alexdi227 lost connection: Disconnected
+[21:52:27] [Server thread/INFO]: Alexdi227 left the game
+[21:56:03] [Server thread/INFO]: vivaderio lost connection: Disconnected
+[21:56:03] [Server thread/INFO]: vivaderio left the game
+[21:56:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:56:11] [Server thread/INFO]: save<--[HERE]
+[21:56:13] [Server thread/INFO]: Stopping the server
+[21:56:13] [Server thread/INFO]: Stopping server
+[21:56:13] [Server thread/INFO]: Saving players
+[21:56:13] [Server thread/INFO]: Saving worlds
+[21:56:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:56:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:56:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
