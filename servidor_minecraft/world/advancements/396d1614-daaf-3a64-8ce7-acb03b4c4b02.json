@@ -701,5 +701,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-19 17:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-19 17:32:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
