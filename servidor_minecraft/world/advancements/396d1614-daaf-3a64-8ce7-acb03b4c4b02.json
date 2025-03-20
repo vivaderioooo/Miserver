@@ -364,6 +364,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-20 14:22:28 +0000",
       "cooked_mutton": "2025-03-20 12:31:12 +0000",
       "cooked_beef": "2025-03-19 17:09:11 +0000",
       "dried_kelp": "2025-03-20 12:55:48 +0000",
@@ -1490,6 +1491,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 14:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-20 14:18:51 +0000"
     },
     "done": true
   },
