@@ -362,6 +362,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-20 12:31:12 +0000",
       "cooked_beef": "2025-03-19 17:09:11 +0000",
+      "dried_kelp": "2025-03-20 12:55:48 +0000",
       "cooked_salmon": "2025-03-19 17:01:08 +0000"
     },
     "done": false
@@ -924,6 +925,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-20 12:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-20 12:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-20 12:36:27 +0000"
@@ -951,6 +964,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-20 12:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-03-20 12:52:45 +0000"
     },
     "done": true
   },
@@ -1038,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 12:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 12:46:42 +0000"
@@ -1083,6 +1108,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-20 12:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-20 12:55:32 +0000"
     },
     "done": true
   },
