@@ -1,92 +1,39 @@
-[16:51:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:51:41] [ServerMain/INFO]: Loaded 7 recipes
-[16:51:41] [ServerMain/INFO]: Loaded 1271 advancements
-[16:51:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:51:42] [Server thread/INFO]: Loading properties
-[16:51:42] [Server thread/INFO]: Default game type: SURVIVAL
-[16:51:42] [Server thread/INFO]: Generating keypair
-[16:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:51:42] [Server thread/INFO]: Using epoll channel type
-[16:51:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:51:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:51:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:51:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:51:42] [Server thread/INFO]: Preparing level "world"
-[16:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:51:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:51:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:51:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:51:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:51:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:51:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:51:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:51:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:51:50] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[16:51:51] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[16:51:51] [Server thread/INFO]: Time elapsed: 5454 ms
-[16:51:51] [Server thread/INFO]: Done (8.837s)! For help, type "help"
-[16:53:33] [Server thread/INFO]: nachochete[/127.82.56.142:60237] logged in with entity id 172 at (90.5, 68.0, 54.5)
-[16:53:33] [Server thread/INFO]: nachochete joined the game
-[16:56:48] [Server thread/INFO]: nachochete has made the advancement [Stone Age]
-[16:57:08] [Server thread/INFO]: nachochete has made the advancement [Monster Hunter]
-[16:58:36] [Server thread/INFO]: nachochete has made the advancement [Getting an Upgrade]
-[17:26:03] [Server thread/INFO]: nachochete lost connection: Disconnected
-[17:26:03] [Server thread/INFO]: nachochete left the game
-[17:28:12] [Server thread/INFO]: nachochete[/127.82.56.142:53691] logged in with entity id 6027 at (293.77622793424973, 64.0, 87.65990488555244)
-[17:28:12] [Server thread/INFO]: nachochete joined the game
-[17:29:34] [Server thread/INFO]: nachochete lost connection: Disconnected
-[17:29:34] [Server thread/INFO]: nachochete left the game
-[17:30:50] [Server thread/INFO]: nachochete[/127.82.56.142:59555] logged in with entity id 6312 at (317.0789613767415, 50.0, 97.16103795921036)
-[17:30:50] [Server thread/INFO]: nachochete joined the game
-[17:32:41] [Server thread/INFO]: nachochete has made the advancement [Sweet Dreams]
-[17:35:00] [Server thread/INFO]: [Not Secure] [Server] nacho eres homosexual
-[17:35:27] [Server thread/INFO]: [Not Secure] <nachochete> tu padre
-[17:35:48] [Server thread/INFO]: [Not Secure] [Server] bro está alojado en un codespace de github, dime que no tiene limite de uso o algo asi
-[17:35:56] [Server thread/INFO]: [Not Secure] <nachochete> no deberia
-[17:36:05] [Server thread/INFO]: [Not Secure] <nachochete> pero si somos varios lo mismo va a pedales
-[17:36:13] [Server thread/INFO]: [Not Secure] <nachochete> tienes el pc por cable?
-[17:36:33] [Server thread/INFO]: [Not Secure] [Server] se supone que da igual porque tira la ram por la nube de github
-[17:36:48] [Server thread/INFO]: [Not Secure] <nachochete> una cosa es la ram y otra la conexion
-[17:36:51] [Server thread/INFO]: [Not Secure] [Server] ayer con alex nos iba de puta madre
-[17:37:01] [Server thread/INFO]: [Not Secure] <nachochete> bien entonces
-[17:37:02] [Server thread/INFO]: [Not Secure] [Server] esta por wifi
-[17:37:06] [Server thread/INFO]: [Not Secure] <nachochete> damn
-[17:37:13] [Server thread/INFO]: [Not Secure] <nachochete> vamos probando y ya
-[17:37:18] [Server thread/INFO]: [Not Secure] [Server] has encontrado nuestra casa
-[17:37:19] [Server thread/INFO]: [Not Secure] <nachochete> sino le podemos hacer cosillas
-[17:37:22] [Server thread/INFO]: [Not Secure] <nachochete> si
-[17:37:27] [Server thread/INFO]: [Not Secure] [Server] yo te paso el github si quieres me la pela
-[17:37:29] [Server thread/INFO]: [Not Secure] <nachochete> yo estoy en una montaña
-[17:37:40] [Server thread/INFO]: [Not Secure] <nachochete> me voy a hacer ahi la casa
-[17:37:44] [Server thread/INFO]: [Not Secure] <nachochete> muy top
-[17:37:53] [Server thread/INFO]: [Not Secure] [Server] ya se cual es
-[17:38:07] [Server thread/INFO]: [Not Secure] [Server] luego me meto que me voy al cine
-[17:38:14] [Server thread/INFO]: [Not Secure] [Server] no mueras
-[17:38:15] [Server thread/INFO]: [Not Secure] <nachochete> al cine?
-[17:38:24] [Server thread/INFO]: [Not Secure] [Server] si con paula a ver mickey 17
-[17:38:30] [Server thread/INFO]: [Not Secure] <nachochete> bro por donde putas estas hablando
-[17:39:00] [Server thread/INFO]: [Not Secure] [Server] por la consola del server, es que en 2013 me dio muy fuerte por hacer un server de minercaft publico y me se todo
-[17:39:10] [Server thread/INFO]: [Not Secure] <nachochete> jajajajajaja
-[17:39:28] [Server thread/INFO]: [Not Secure] <nachochete> entonces puedes ver los logs
-[17:45:02] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=314, y=95, z=138} gu{x=315, y=94, z=137}
-[17:49:15] [Server thread/INFO]: [Not Secure] [Server] puedo ver todo
-[17:49:20] [Server thread/INFO]: [Not Secure] [Server] soy dios
-[17:50:03] [Server thread/INFO]: Unknown item 'minecraft:59'
-[17:50:03] [Server thread/INFO]: ...e nachete 59 2<--[HERE]
-[17:51:10] [Server thread/INFO]: No player was found
-[17:51:35] [Server thread/INFO]: Gave 5 [Wooden Pickaxe] to nachochete
-[17:51:37] [Server thread/INFO]: [Not Secure] [Server] ves
-[17:51:41] [Server thread/INFO]: [Not Secure] [Server] soy dios
-[17:51:43] [Server thread/INFO]: [Not Secure] <nachochete> que haces
-[17:51:46] [Server thread/INFO]: [Not Secure] <nachochete> quitame eso
-[17:51:50] [Server thread/INFO]: [Not Secure] <nachochete> no hagas eso
-[17:51:52] [Server thread/INFO]: [Not Secure] <nachochete> tramposo
-[17:52:04] [Server thread/INFO]: [Not Secure] [Server] no hago trmapas era para demostrar mi poder
-[17:52:08] [Server thread/INFO]: [Not Secure] [Server] picos de madera
-[17:52:21] [Server thread/INFO]: [Not Secure] <nachochete> bro
-[17:52:27] [Server thread/INFO]: [Not Secure] <nachochete> puedes ver mi camara?
-[17:52:36] [Server thread/INFO]: [Not Secure] <nachochete> o lo que estoy haciendo?
-[17:53:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=309, y=95, z=141} gu{x=309, y=93, z=141}
-[18:10:31] [Server thread/INFO]: nachochete lost connection: Disconnected
-[18:10:31] [Server thread/INFO]: nachochete left the game
+[12:05:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:05:38] [ServerMain/INFO]: Loaded 7 recipes
+[12:05:38] [ServerMain/INFO]: Loaded 1271 advancements
+[12:05:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[12:05:39] [Server thread/INFO]: Loading properties
+[12:05:39] [Server thread/INFO]: Default game type: SURVIVAL
+[12:05:39] [Server thread/INFO]: Generating keypair
+[12:05:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:05:39] [Server thread/INFO]: Using epoll channel type
+[12:05:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:05:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:05:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:05:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:05:39] [Server thread/INFO]: Preparing level "world"
+[12:05:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:05:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:05:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:05:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[12:05:48] [Worker-Main-3/INFO]: Preparing spawn area: 35%
+[12:05:48] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[12:05:48] [Server thread/INFO]: Time elapsed: 6178 ms
+[12:05:48] [Server thread/INFO]: Done (9.328s)! For help, type "help"
+[12:06:04] [Server thread/INFO]: nachochete[/127.82.56.142:55643] logged in with entity id 54 at (322.8815248772452, 95.0, 138.09540103706772)
+[12:06:04] [Server thread/INFO]: nachochete joined the game
+[12:07:12] [Server thread/INFO]: [Not Secure] [Server] no ha petao no?
+[12:07:14] [Server thread/INFO]: [Not Secure] [Server] no
+[12:07:16] [Server thread/INFO]: [Not Secure] <nachochete> niet
+[12:07:29] [Server thread/INFO]: [Not Secure] [Server] voy a cambiar la contraseña de github alomejor se cierra pero no creo
+[12:11:24] [Server thread/INFO]: [Not Secure] [Server] vale no ha petao <3
+[12:11:32] [Server thread/INFO]: [Not Secure] [Server] ya tienes la cuenta y la contraseña
+[12:11:51] [Server thread/INFO]: [Not Secure] [Server] luego sobre las 19 te hago un tutorial de como inciarlo si estas
