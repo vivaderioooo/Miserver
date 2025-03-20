@@ -461,3 +461,14 @@
 [15:32:21] [Server thread/INFO]: vivaderio has made the advancement [Sweet Dreams]
 [15:52:29] [Server thread/INFO]: vivaderio lost connection: Disconnected
 [15:52:29] [Server thread/INFO]: vivaderio left the game
+[16:01:33] [Server thread/INFO]: Stopping the server
+[16:01:33] [Server thread/INFO]: Stopping server
+[16:01:33] [Server thread/INFO]: Saving players
+[16:01:33] [Server thread/INFO]: Saving worlds
+[16:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
