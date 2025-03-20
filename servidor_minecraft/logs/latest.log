@@ -393,3 +393,37 @@
 [14:31:47] [Server thread/INFO]: [Not Secure] [Server] jajaj que trol soy!
 [14:32:28] [Server thread/INFO]: nachochete lost connection: Disconnected
 [14:32:28] [Server thread/INFO]: nachochete left the game
+[14:58:16] [Server thread/INFO]: nachochete[/127.82.56.142:49137] logged in with entity id 29259 at (327.6922918408247, 95.0, 157.2050103323071)
+[14:58:16] [Server thread/INFO]: nachochete joined the game
+[14:58:25] [Server thread/INFO]: [Not Secure] <nachochete> zz
+[14:59:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:59:26] [Server thread/INFO]: Bueno say buenos dias mi amor<--[HERE]
+[14:59:31] [Server thread/INFO]: [Not Secure] [Server] buenos dias mi amor
+[14:59:35] [Server thread/INFO]: [Not Secure] <nachochete> pero
+[14:59:39] [Server thread/INFO]: [Not Secure] <nachochete> sigues atento a esto?
+[14:59:43] [Server thread/INFO]: [Not Secure] <nachochete> vaya enfermo
+[14:59:45] [Server thread/INFO]: [Not Secure] [Server] bro tengo dos pantallas
+[14:59:54] [Server thread/INFO]: [Not Secure] [Server] lo tenia abierto por cuasialidad
+[15:00:15] [Server thread/INFO]: Gave 1 [Apple] to nachochete
+[15:00:21] [Server thread/INFO]: [Not Secure] [Server] con todo mi amor
+[15:02:07] [Server thread/INFO]: [Not Secure] [Server] bro tu que sabes
+[15:02:21] [Server thread/INFO]: [Not Secure] [Server] esto que haría en el codespace git initgit add .git commit -m "Copia del servidor"git branch -M maingit remote add origin https://github.com/tuusuario/nuevorepo.gitgit push -u origin main
+[15:02:53] [Server thread/INFO]: [Not Secure] <nachochete> subes al repositorio de github una copia
+[15:03:08] [Server thread/INFO]: [Not Secure] <nachochete> y con el -M sale el mensaje que pone despues de la M
+[15:03:25] [Server thread/INFO]: [Not Secure] <nachochete> ah no, es un git branch, cambias la rama
+[15:03:31] [Server thread/INFO]: [Not Secure] [Server] zip -r servidor_minecraft.zip servidor_minecraft esto la puede liar?
+[15:03:54] [Server thread/INFO]: [Not Secure] <nachochete> pues
+[15:04:08] [Server thread/INFO]: [Not Secure] <nachochete> el -r
+[15:04:14] [Server thread/INFO]: [Not Secure] <nachochete> es recursivo
+[15:04:28] [Server thread/INFO]: [Not Secure] <nachochete> osea que vas a hacer un zip a todo, lo estas comprimiendo
+[15:04:34] [Server thread/INFO]: [Not Secure] [Server] bro es que he visto sitios que dicen que el codespace tiene un limite de 30 horas mensuales
+[15:04:49] [Server thread/INFO]: [Not Secure] [Server] no se si creermelo o no, pero no sabría copiar este codespace en otro para seguir jugando
+[15:04:58] [Server thread/INFO]: [Not Secure] <nachochete> hace una copia de seguridad
+[15:05:06] [Server thread/INFO]: [Not Secure] <nachochete> es linux el servidor?
+[15:05:08] [Server thread/INFO]: [Not Secure] [Server] bro nideea es python
+[15:05:27] [Server thread/INFO]: [Not Secure] <nachochete> haz en la consola esto: "hostname"
+[15:05:56] [Server thread/INFO]: [Not Secure] <nachochete> o sino "uname"
+[15:06:00] [Server thread/INFO]: [Not Secure] [Server] codespaces-e889c1
+[15:06:07] [Server thread/INFO]: [Not Secure] <nachochete> o "lsb_release"
+[15:06:17] [Server thread/INFO]: [Not Secure] [Server] eso sale
+[15:06:22] [Server thread/INFO]: [Not Secure] <nachochete> y con los otros?
