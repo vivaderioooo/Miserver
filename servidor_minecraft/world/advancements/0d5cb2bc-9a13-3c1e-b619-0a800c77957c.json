@@ -314,6 +314,7 @@
       "apple": "2025-03-18 21:06:27 +0000",
       "cooked_cod": "2025-03-18 21:13:43 +0000",
       "dried_kelp": "2025-03-18 21:16:13 +0000",
+      "cooked_chicken": "2025-03-20 18:09:27 +0000",
       "cooked_salmon": "2025-03-18 21:34:19 +0000"
     },
     "done": false
@@ -1235,6 +1236,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 17:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-20 18:08:33 +0000"
     },
     "done": true
   },
