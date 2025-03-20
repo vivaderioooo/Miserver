@@ -913,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 13:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 12:46:42 +0000"
@@ -931,9 +937,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-20 13:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-20 12:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-20 13:10:59 +0000"
     },
     "done": true
   },
@@ -970,6 +988,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-03-20 12:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 13:11:01 +0000"
     },
     "done": true
   },
@@ -1018,6 +1042,18 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 12:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-20 13:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-20 13:10:59 +0000"
     },
     "done": true
   },
