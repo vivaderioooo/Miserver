@@ -367,6 +367,7 @@
       "cooked_porkchop": "2025-03-20 14:22:28 +0000",
       "cooked_mutton": "2025-03-20 12:31:12 +0000",
       "cooked_beef": "2025-03-19 17:09:11 +0000",
+      "bread": "2025-03-21 16:55:46 +0000",
       "dried_kelp": "2025-03-20 12:55:48 +0000",
       "cooked_chicken": "2025-03-21 16:43:08 +0000",
       "cooked_salmon": "2025-03-19 17:01:08 +0000"
@@ -1585,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-21 16:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-21 16:40:46 +0000"
@@ -1597,15 +1604,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-21 16:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-21 16:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-21 16:40:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-21 16:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-03-21 16:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-21 16:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-21 16:55:15 +0000"
     },
     "done": true
   },
@@ -1624,6 +1661,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-03-21 16:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-21 16:55:21 +0000"
     },
     "done": true
   },
