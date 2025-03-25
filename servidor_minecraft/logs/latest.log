@@ -30,3 +30,16 @@
 [17:12:01] [Server thread/INFO]: Done (9.444s)! For help, type "help"
 [17:12:18] [Server thread/INFO]: vivaderio[/127.63.202.90:38155] logged in with entity id 6 at (581.9439773445839, 64.0, 93.59105413393173)
 [17:12:19] [Server thread/INFO]: vivaderio joined the game
+[17:39:23] [Server thread/INFO]: vivaderio lost connection: Disconnected
+[17:39:23] [Server thread/INFO]: vivaderio left the game
+[17:39:28] [Server thread/INFO]: Stopping the server
+[17:39:28] [Server thread/INFO]: Stopping server
+[17:39:28] [Server thread/INFO]: Saving players
+[17:39:28] [Server thread/INFO]: Saving worlds
+[17:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
