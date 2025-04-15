@@ -38,3 +38,7 @@
 [12:10:27] [Server thread/WARN]: nachochete moved too quickly! 0.4943866117236553,-10.996694095772469,0.018725895593647124
 [12:31:14] [Server thread/INFO]: nachochete lost connection: Disconnected
 [12:31:14] [Server thread/INFO]: nachochete left the game
+[13:08:04] [Server thread/INFO]: nachochete[/127.134.150.191:37787] logged in with entity id 8569 at (326.40558844044153, 127.0, 63.08045688258746)
+[13:08:04] [Server thread/INFO]: nachochete joined the game
+[13:13:17] [Server thread/INFO]: [Not Secure] <nachochete> console.log(1+1);
+[13:13:49] [Server thread/WARN]: nachochete moved too quickly! 9.962045977360958,-0.16610926093821377,2.060639439466911
