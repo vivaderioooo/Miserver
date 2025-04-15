@@ -42,3 +42,5 @@
 [13:08:04] [Server thread/INFO]: nachochete joined the game
 [13:13:17] [Server thread/INFO]: [Not Secure] <nachochete> console.log(1+1);
 [13:13:49] [Server thread/WARN]: nachochete moved too quickly! 9.962045977360958,-0.16610926093821377,2.060639439466911
+[13:23:12] [Server thread/INFO]: nachochete lost connection: Disconnected
+[13:23:12] [Server thread/INFO]: nachochete left the game
